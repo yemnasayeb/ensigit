@@ -5,3 +5,8 @@ nous allons voir comment organiser une école d'été pour les enseignants ensi
 merci
 day1: Docker
 day2: git
+
+Nous allons passer à un test final 
+nous allons porter une modification, faire le commit et puis faire le push
+
+C'est la fin de la formation
