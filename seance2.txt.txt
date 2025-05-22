@@ -3,3 +3,5 @@ merci Amine Mezguiche
 nous allons voir comment organiser une école d'été pour les enseignants ensi
 
 merci
+day1: Docker
+day2: git
